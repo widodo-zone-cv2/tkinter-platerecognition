@@ -8,9 +8,12 @@ from PIL import Image, ImageTk
 import easyocr
 from tracker import *
 
-window = ttk.Window(themename="solar")
+model = YOLO("./utils/last.pt")
+names = ["Mobil Bus", "Mobil MPV", "Mobil Pickup", "Plat-Nomor", "Mobil Polisi", "Mobil Sedan", "Mobil Truk",""]
+tracker = Tracker()
 
-window = ttk.Frame(window, padding=10)
+root = ttk.Window(themename="solar")
+window = ttk.Frame(root, padding=10)
 window.pack(fill=BOTH, expand=YES)
 style = ttk.Style()
 theme_names = style.theme_names()
