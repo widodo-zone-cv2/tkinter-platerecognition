@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sugeng Wahyu Widodo</h1>
+<h1 align="center">Hi 👋, saya Widodo</h1>
 <h3 align="center">Pengembang Tekhnologi AI (Artificial Intelligence) yang bersemangat dari Indonesia</h3>
 
 - 🔭 Saat ini saya sedang mengerjakan **Automatic number-plate recognition (ANPR)**
