@@ -7,7 +7,7 @@
 
 - 👯 Saya ingin berkolaborasi dalam **Pengembangan Machine Leraning dan AI**
 
-- 🤝 Saya mencari bantuan dengan **referensi google, dan komunitas para programer**
+- 🤝 Saya belajar tentang **python, PHP, C++, C, Javascript**
 
 - 👨‍💻 Semua proyek saya tersedia di [https://github.com/wahyuwidodo1](https://github.com/wahyuwidodo1)
 
